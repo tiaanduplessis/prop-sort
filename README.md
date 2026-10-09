@@ -63,6 +63,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/prop-sort.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save prop-sort
 # OR
